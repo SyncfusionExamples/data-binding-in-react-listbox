@@ -1,12 +1,14 @@
 # Data Binding in React ListBox Component
 
-A quick-start project that helps you to bind local and remote data to the React ListBox component of Syncfusion.
+A quick start React project that shows how to bind local and remote data to the React ListBox component of Syncfusion. This project also includes a code snippet to configure binding local and remote data to the React ListBox component.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/list-box/data-binding/
+Refer to the following documentation to learn about the React ListBox component: https://ej2.syncfusion.com/react/documentation/list-box/data-binding
+
+Check out this online example of the React ListBox component: https://ej2.syncfusion.com/react/demos/#/tailwind3/list-box/default
 
 ## Project prerequisites
+Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
 
