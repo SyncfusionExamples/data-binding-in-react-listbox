@@ -1,13 +1,50 @@
 # Data Binding in React ListBox Component
 
-A quick-start project that helps you to bind local and remote data to the React ListBox component of Syncfusion.
+A quick-start project that helps you bind local and remote data to the React ListBox component of Syncfusion.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/list-box/data-binding/
+## Repository Description
 
-## Project prerequisites
+Quick-start guide for implementing data binding with Syncfusion's React ListBox component. Includes examples for connecting local and remote data sources in React applications.
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+## Features
 
-### How to run this application?
+- Bind local and remote data sources to ListBox
+- Support for single and multiple selection modes
+- Filter and search capabilities
+- Customizable list items with flexible styling
 
-To run this application, you need to clone the `data-binding-in-react-listbox` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
+## Prerequisites
+
+Ensure you have the latest versions of NodeJS and Visual Studio Code installed.
+
+**Required Software:**
+- Node.js (Latest LTS version or higher)
+- Visual Studio Code (Latest version)
+- npm (Package manager bundled with Node.js)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd data-binding-in-react-listbox
+   ```
+
+2. Install React packages:
+   ```bash
+   npm install
+   ```
+
+## How to Run
+
+Start the development server:
+
+```bash
+npm start
+```
+
+The application will launch in your browser at `http://localhost:3000`.
+
+## Documentation
+
+For comprehensive documentation on data binding in React ListBox, visit the [Syncfusion React ListBox Data Binding Documentation](https://ej2.syncfusion.com/react/documentation/list-box/data-binding/).
